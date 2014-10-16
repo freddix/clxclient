@@ -1,7 +1,7 @@
 Summary:	clxclient library
 Name:		clxclient
 Version:	3.6.1
-Release:	1
+Release:	2
 License:	LGPL
 Group:		Libraries
 Source0:	http://www.kokkinizita.net/linuxaudio/downloads/%{name}-%{version}.tar.bz2
